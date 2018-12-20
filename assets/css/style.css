@@ -12,10 +12,12 @@
 }
 .quiz li:hover{
     color: red;
+    justify-content: space-between;
 
 }
 body{
     text-align: center;
+    margin-top: 250px;
 
 }
 #text{
