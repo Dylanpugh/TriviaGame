@@ -1,0 +1,25 @@
+.quiz, .score{
+    display: none;
+}
+.quiz ul{
+    list-style: none;
+    
+}
+.selected{
+    background-color: red;
+    padding: 10px;
+}
+.quiz li:hover{
+    color: red;
+
+}
+body{
+    text-align: center;
+
+}
+#text{
+    background-color: white;
+    border: solid red;
+    padding: 50px;
+    justify-content: center;
+}
