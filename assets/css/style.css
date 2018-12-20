@@ -3,6 +3,7 @@
 }
 .quiz ul{
     list-style: none;
+
     
 }
 .selected{
@@ -22,4 +23,6 @@ body{
     border: solid red;
     padding: 50px;
     justify-content: center;
+    color: blue;
+    font-weight: bold;
 }
